@@ -5,4 +5,7 @@ agung.width = window.innerWidth;
 agung.height = window.innerHeight;
 
 hesti.fillStyle = "white";
-hesti.fillRect(50,50,500,1500);
+hesti.fillRect(50,50,50,50);
+
+hesti.beginPath();
+hesti.arc(100,100,50,0,Math.PI*2);
