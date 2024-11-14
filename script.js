@@ -8,4 +8,4 @@ hesti.fillStyle = "white";
 hesti.fillRect(50,50,50,50);
 
 hesti.beginPath();
-hesti.arc(100,100,50,0,Math.PI*2);
+hesti.arc(200,200,100,0,Math.PI*2);
